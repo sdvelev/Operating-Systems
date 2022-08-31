@@ -1,0 +1,9 @@
+/bin/true
+/bin/true
+/bin/true
+/bin/true
+/bin/true
+/bin/ls
+/bin/true
+/bin/date
+/bin/true
